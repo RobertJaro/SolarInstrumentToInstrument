@@ -10,7 +10,7 @@ specific characteristics of high-quality and low-quality observations. For the e
 the knowledge about the high-quality distribution is used to infer missing information.
 
 ITI can be applied for a large variety of data and only requires high- and low-quality images of the same physical observable, without
-the need of spatial or temporal aligned pairs. Therefore, this approach can be also used to recover historic observations
+the need for spatial or temporal aligned pairs. Therefore, this approach can be also used to recover historic observations
 (e.g., photographic plates) or enhance observations with the use of simulation data.
 
 ITI provides a full framework, which allows for flexible and easy model training and evaluation. Codes and pre-trained models
