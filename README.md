@@ -21,7 +21,7 @@ ITI provides a full framework, which allows for flexible and easy model training
 *Original HMI*
 
 ![Enhanced HMI](images/hmi_hinode/sample2_hinode.jpg)
-*Enhanced to Hinode Quality*
+*Enhanced to Hinode Quality (download and zoom in to see the full resolution - 16,384x16,384 pixel)*
 
 ![Direct Comparison](images/hmi_hinode/sid_by_side.jpg)
 *Comparison of a local cutout. Top: original input image, Bottom: result of the ITI network.*
